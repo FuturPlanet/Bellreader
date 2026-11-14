@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Bellreader</title>
+    <script type="module" src="/main.js" defer></script>
+  </head>
+  <body>
+    <main id="app">
+      <section id="start" class="screen">
+        <h1>Bellreader</h1>
+        <p class="lead">Entwicklungsbeobachtung nach Kuno Bellers Entwicklungstabelle</p>
+        <form id="age-form" class="card">
+          <label for="age">Alter des Kindes in Monaten</label>
+          <input id="age" type="number" inputmode="numeric" min="0" max="240" required placeholder="z. B. 19" />
+          <button type="submit" class="primary">Beobachtung starten</button>
+        </form>
+      </section>
+
+      <section id="question" class="screen" hidden>
+        <header class="progress">
+          <span id="q-area" class="area"></span>
+          <span id="q-meta" class="meta"></span>
+        </header>
+        <div class="bar"><div id="q-bar"></div></div>
+        <div class="card">
+          <h2 id="q-title"></h2>
+          <p id="q-example" class="example"></p>
+        </div>
+        <div class="answers">
+          <button data-answer="ja" class="ja">Ja</button>
+          <button data-answer="teilweise" class="teilweise">Teilweise</button>
+          <button data-answer="nein" class="nein">Nein</button>
+          <button data-answer="weiss_nicht" class="weiss">Weiß ich nicht</button>
+        </div>
+      </section>
+
+      <section id="results" class="screen" hidden>
+        <h1>Ergebnis</h1>
+        <p id="r-age" class="lead"></p>
+        <div class="card">
+          <svg id="r-chart" role="img" aria-label="Entwicklungsprofil: Decke, Gesamtwert, Boden und Median je Bereich"></svg>
+          <ul class="legend">
+            <li><span class="key ceiling"></span>Decke</li>
+            <li><span class="key total"></span>Gesamtwert</li>
+            <li><span class="key floor"></span>Boden</li>
+            <li><span class="key median"></span>Median <strong id="r-median"></strong></li>
+          </ul>
+        </div>
+        <div class="card table-card">
+          <div class="table-wrap">
+            <table id="r-table">
+              <thead>
+                <tr>
+                  <th>Bereich</th>
+                  <th>Tut es</th>
+                  <th>Tut es teilweise</th>
+                  <th>Tut es nicht</th>
+                  <th>Weiß ich nicht</th>
+                  <th>Phasenwerte</th>
+                  <th>Boden</th>
+                  <th>Decke</th>
+                  <th>Gesamt</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <button id="restart" class="primary">Neue Beobachtung</button>
+      </section>
+
+      <p id="error" class="error" hidden></p>
+    </main>
+  </body>
+</html>

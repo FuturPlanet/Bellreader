@@ -1,0 +1,3642 @@
+[
+  {
+    "name": "Körperbewusstsein & -pflege",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 2 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 2 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Körperbewusstsein & -pflege).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 5 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 5 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 8 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 8 (Körperbewusstsein & -pflege).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 11 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 11 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Körperbewusstsein & -pflege).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 14 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 14 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Körperbewusstsein & -pflege).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 17 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 17 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Körperbewusstsein & -pflege).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Umgebungsbewusstsein",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 1 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 3 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 4 (Umgebungsbewusstsein).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 6 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 7 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Umgebungsbewusstsein).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 9 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 10 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 12 (Umgebungsbewusstsein).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 13 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 15 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 16 (Umgebungsbewusstsein).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 18 (Umgebungsbewusstsein).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sozial-emotionale Entwicklung",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 2 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 3 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 3 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Sozial-emotionale Entwicklung).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 5 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 6 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 6 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 8 (Sozial-emotionale Entwicklung).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 9 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 9 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 11 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 12 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 12 (Sozial-emotionale Entwicklung).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 14 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 15 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 15 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Sozial-emotionale Entwicklung).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 17 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 18 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 18 (Sozial-emotionale Entwicklung).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spieltätigkeit",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 2 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 2 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Spieltätigkeit).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 5 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 5 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 8 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 8 (Spieltätigkeit).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 11 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 11 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Spieltätigkeit).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 14 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 14 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Spieltätigkeit).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 17 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 17 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Spieltätigkeit).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sprache & Literacy",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 1 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 3 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 4 (Sprache & Literacy).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 6 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 7 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Sprache & Literacy).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 9 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 10 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 12 (Sprache & Literacy).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 13 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 15 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 16 (Sprache & Literacy).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 18 (Sprache & Literacy).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kognition",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 2 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 3 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 3 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Kognition).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 5 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 6 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 6 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 8 (Kognition).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 9 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 9 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 11 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 12 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 12 (Kognition).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 14 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 15 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 15 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Kognition).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 17 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 18 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 18 (Kognition).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grobmotorik",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 2 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 2 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Grobmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 5 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 5 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 8 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 8 (Grobmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 11 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 11 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Grobmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 14 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 14 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Grobmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 17 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 17 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Grobmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Feinmotorik",
+    "phases": [
+      {
+        "number": 1,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 1 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 1 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 1 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 1 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 1 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 1.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 2 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 2 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 2 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 2.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 3 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 3 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 3 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 3 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 3.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 4 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 4 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 4 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 4 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 4.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 4 (Feinmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 5 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 5 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 5 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 5.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 6 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 6 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 6 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 6 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 6.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 7 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 7 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 7 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 7 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 7 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 7.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 8 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 8 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 8.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 8 (Feinmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 9 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 9 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 9 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 9 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 9.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 10 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 10 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 10 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 10 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 10 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 10.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 11 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 11 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 11 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 11.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 12 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 12 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 12 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 12.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 12 (Feinmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 13 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 13 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 13 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 13 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 13 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 13.5. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 14 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 14 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 14 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 14.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 15 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 15 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 15 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 15 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 15.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 16 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 16 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 16 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 16 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 16.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 5,
+            "title": "Beispiel-Bedingung 5 in Phase 16 (Feinmotorik).",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 17 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 17 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 17 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 17.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "conditions": [
+          {
+            "number": 1,
+            "title": "Beispiel-Bedingung 1 in Phase 18 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.1. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 2,
+            "title": "Beispiel-Bedingung 2 in Phase 18 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.2. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 3,
+            "title": "Beispiel-Bedingung 3 in Phase 18 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.3. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          },
+          {
+            "number": 4,
+            "title": "Beispiel-Bedingung 4 in Phase 18 (Feinmotorik).",
+            "example": "Platzhalter: Hier steht das Beispiel zu Bedingung 18.4. Echte Inhalte aus der eigenen lizenzierten Entwicklungstabelle einfügen."
+          }
+        ]
+      }
+    ]
+  }
+]

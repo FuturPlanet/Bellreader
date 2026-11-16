@@ -2,7 +2,7 @@
 
 A Windows and Android app for guided developmental observations based on **Kuno Bellers Entwicklungstabelle 0–9** (Simone Beller, 2016).
 
-The observer enters the child's age in months and answers one condition at a time. For each of the eight developmental areas, Bellreader finds the floor, ceiling and total score, then shows the result as an answer table and a development profile chart.
+The observer enters the child's age in months and answers one condition at a time. For each of the eight developmental areas, Bellreader finds the floor, ceiling and total score, then shows the result as an answer table and a development profile chart, which can be saved as a PDF with one button press.
 
 Built with [Tauri 2](https://tauri.app): a Rust backend with a plain HTML, CSS and JavaScript frontend.
 
@@ -13,8 +13,11 @@ Built with [Tauri 2](https://tauri.app): a Rust backend with a plain HTML, CSS a
 - Floor, ceiling and total score for each of the 8 areas
 - Answer table per area: Tut es / Tut es teilweise / Tut es nicht / Weiß ich nicht, plus phase values
 - Profile chart showing floor, ceiling, total score and the median of all total scores
+- Back button: undo answers one at a time, all the way back to the age input, also from the results screen
+- PDF export: one button saves a report to the Downloads folder
 - Works offline: the full table is compiled into the app
-- Light and dark mode, answer buttons stay fixed at the bottom, keys `1`–`4` answer on desktop
+- Light and dark mode, answer buttons stay fixed at the bottom
+- Keyboard on desktop: `1`–`4` to answer, `Backspace` to go back
 
 ## Developmental areas
 
@@ -73,6 +76,19 @@ Rules:
 - A phase answered only with "Weiß ich nicht" has no value and is skipped.
 - The median line in the chart is the median of the eight total scores.
 
+### Going back
+
+"← Zurück" undoes the last answer. Because the next phase depends on earlier answers, going back replays all remaining answers from the start, so the result is always the same as if the corrected answer had been given the first time. On the first question, going back returns to the age input. On the results screen, "← Letzte Antwort ändern" returns to the last question.
+
+## PDF report
+
+"Als PDF speichern" on the results screen saves an A4 landscape report to the Downloads folder:
+
+- **Page 1, Entwicklungsprofil:** age, date, the profile chart and a table of floor, ceiling and total score per area, plus the median
+- **Page 2 and later, Antworten je Bereich:** the answer table (Tut es / Tut es teilweise / Tut es nicht / Weiß ich nicht) with phase values
+
+The file is named like `Bellreader_2026-11-16_40-Monate.pdf`. Existing files are never overwritten: a second report on the same day becomes `… (2).pdf`. The PDF is generated in plain Rust (`pdf.rs`) with the built-in PDF fonts, without any extra libraries.
+
 ## Project structure
 
 ```
@@ -88,7 +104,8 @@ Bellreader/
     ├── src/
     │   ├── lib.rs                App setup and command registration
     │   ├── table.rs              Loads the JSON
-    │   └── assessment.rs         Age table, search, scoring, tests
+    │   ├── assessment.rs         Age table, search, scoring, going back, tests
+    │   └── pdf.rs                PDF report and export to Downloads
     ├── icons/                    App icons
     ├── Cargo.toml
     └── tauri.conf.json
@@ -132,6 +149,8 @@ The file is a list of areas, each containing phases, each containing conditions:
 |---|---|---|
 | `start_assessment` | `{ ageMonths }` | First question |
 | `answer` | `{ answer: "ja" \| "teilweise" \| "nein" \| "weiss_nicht" }` | Next question, or the results when finished |
+| `go_back` | – | The previous question |
+| `export_pdf` | – | Path of the saved PDF |
 | `get_areas` | – | Names of all areas |
 | `get_phase` | `{ area, phase }` | One phase with its conditions |
 | `get_table` | – | The whole table |
@@ -162,7 +181,7 @@ cd src-tauri
 cargo test
 ```
 
-The tests check that the data loads (8 areas × 18 phases), the age table, scoring, floor and ceiling from different starting ages, the edge cases, the answer table and the median.
+The tests (16 in total) check that the data loads (8 areas × 18 phases), the age table, scoring, floor and ceiling from different starting ages, the edge cases, the answer table, the median, going back, and that the PDF report is valid.
 
 ## Building for Windows
 
@@ -201,6 +220,8 @@ cargo tauri android build
 ```
 
 A physical phone with USB debugging is usually faster and more reliable than the emulator.
+
+**Known limitation:** Android does not let apps write directly into the Downloads folder, so the PDF export currently works on Windows only. Android needs a "Save as" or "Share" dialog instead.
 
 ## App icon
 

@@ -324,6 +324,18 @@ impl Assessment {
         Ok(self.advance())
     }
 
+    pub fn age_months(&self) -> u32 {
+        self.age_months
+    }
+
+    pub fn finished(&self) -> Option<(Vec<AreaResult>, f64)> {
+        if self.run.is_some() || self.results.is_empty() || self.results.len() < table().len() {
+            return None;
+        }
+        let totals: Vec<f64> = self.results.iter().map(|r| r.total).collect();
+        Some((self.results.clone(), median(&totals)))
+    }
+
     pub fn back(&mut self) -> Step {
         let mut history = std::mem::take(&mut self.history);
         history.pop();

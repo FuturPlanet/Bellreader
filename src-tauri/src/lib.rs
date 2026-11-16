@@ -1,4 +1,5 @@
 mod assessment;
+mod pdf;
 mod table;
 
 #[tauri::command]
@@ -18,7 +19,8 @@ pub fn run() {
             table::get_table,
             assessment::start_assessment,
             assessment::answer,
-            assessment::go_back
+            assessment::go_back,
+            pdf::export_pdf
         ])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");

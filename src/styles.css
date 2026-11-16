@@ -130,6 +130,26 @@ button:hover {
   min-height: 44px;
 }
 
+.wide {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.primary:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.saved {
+  margin: 0 0 12px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  font-size: 0.9rem;
+  overflow-wrap: anywhere;
+}
+
 .secondary {
   width: 100%;
   margin-bottom: 10px;

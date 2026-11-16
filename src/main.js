@@ -115,6 +115,7 @@ window.addEventListener("resize", () => {
 
 function renderResults(step) {
   lastResult = step;
+  $("r-saved").hidden = true;
   show("results");
   drawChart(step.results, step.median);
   fillTable(step.results);
@@ -155,6 +156,21 @@ function goBack() {
   }
   call("go_back", {});
 }
+
+$("r-pdf").addEventListener("click", async () => {
+  $("r-pdf").disabled = true;
+  $("error").hidden = true;
+  try {
+    const path = await invoke("export_pdf");
+    $("r-saved").textContent = `Gespeichert: ${path}`;
+    $("r-saved").hidden = false;
+  } catch (e) {
+    $("error").textContent = String(e);
+    $("error").hidden = false;
+  } finally {
+    $("r-pdf").disabled = false;
+  }
+});
 
 $("back").addEventListener("click", goBack);
 $("r-back").addEventListener("click", goBack);

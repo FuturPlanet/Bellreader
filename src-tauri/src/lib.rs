@@ -17,7 +17,8 @@ pub fn run() {
             table::get_phase,
             table::get_table,
             assessment::start_assessment,
-            assessment::answer
+            assessment::answer,
+            assessment::go_back
         ])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");

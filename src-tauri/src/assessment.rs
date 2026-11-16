@@ -87,6 +87,7 @@ pub enum Step {
         condition_count: usize,
         title: String,
         example: String,
+        answered: usize,
     },
     Finished {
         results: Vec<AreaResult>,
@@ -102,9 +103,11 @@ struct AreaRun {
 }
 
 pub struct Assessment {
+    age_months: u32,
     start: u32,
     run: Option<AreaRun>,
     results: Vec<AreaResult>,
+    history: Vec<Answer>,
 }
 
 impl Default for Assessment {
@@ -201,9 +204,11 @@ pub fn median(values: &[f64]) -> f64 {
 impl Assessment {
     pub fn new(age_months: u32) -> Self {
         Self {
+            age_months,
             start: start_phase(age_months),
             run: None,
             results: Vec::new(),
+            history: Vec::new(),
         }
     }
 
@@ -287,6 +292,7 @@ impl Assessment {
                         condition_count: total,
                         title: condition.title.clone(),
                         example: condition.example.clone(),
+                        answered: self.history.len(),
                     };
                 }
                 run.answers.entry(phase).or_default();
@@ -314,7 +320,23 @@ impl Assessment {
         let phase = run.current.ok_or("No question is open")?;
         run.answers.entry(phase).or_default().push(answer);
         run.condition += 1;
+        self.history.push(answer);
         Ok(self.advance())
+    }
+
+    pub fn back(&mut self) -> Step {
+        let mut history = std::mem::take(&mut self.history);
+        history.pop();
+        let mut fresh = Assessment::new(self.age_months);
+        let mut step = fresh.advance();
+        for answer in history {
+            match fresh.answer(answer) {
+                Ok(next) => step = next,
+                Err(_) => break,
+            }
+        }
+        *self = fresh;
+        step
     }
 }
 
@@ -328,6 +350,11 @@ pub fn start_assessment(age_months: u32, state: State<'_, Mutex<Assessment>>) ->
 #[tauri::command]
 pub fn answer(answer: Answer, state: State<'_, Mutex<Assessment>>) -> Result<Step, String> {
     state.lock().map_err(|e| e.to_string())?.answer(answer)
+}
+
+#[tauri::command]
+pub fn go_back(state: State<'_, Mutex<Assessment>>) -> Result<Step, String> {
+    Ok(state.lock().map_err(|e| e.to_string())?.back())
 }
 
 #[cfg(test)]
@@ -441,6 +468,57 @@ mod tests {
                 assert_eq!(p.answers.len(), condition_count(i, p.phase));
             }
             assert!(t.teilweise.iter().all(|l| l.starts_with("6.")));
+        }
+    }
+
+    fn question_key(step: &Step) -> Option<(usize, u32, usize, usize)> {
+        match step {
+            Step::Question { area_index, phase, condition_index, answered, .. } => {
+                Some((*area_index, *phase, *condition_index, *answered))
+            }
+            Step::Finished { .. } => None,
+        }
+    }
+
+    #[test]
+    fn back_returns_to_previous_question() {
+        let mut a = Assessment::new(40);
+        let first = a.advance();
+        let second = a.answer(Answer::Ja).unwrap();
+        let third = a.answer(Answer::Nein).unwrap();
+        assert_ne!(question_key(&second), question_key(&third));
+        assert_eq!(question_key(&a.back()), question_key(&second));
+        assert_eq!(question_key(&a.back()), question_key(&first));
+        assert_eq!(question_key(&a.back()), question_key(&first));
+        assert_eq!(question_key(&first).unwrap().3, 0);
+    }
+
+    #[test]
+    fn back_can_undo_a_wrong_answer_anywhere() {
+        let pick = |p: u32| match p {
+            1..=5 => Answer::Ja,
+            6 | 7 => Answer::Teilweise,
+            _ => Answer::Nein,
+        };
+        let mut a = Assessment::new(40);
+        let mut step = a.advance();
+        let mut count = 0;
+        while let Step::Question { phase, .. } = step {
+            count += 1;
+            step = if count % 7 == 0 {
+                a.answer(Answer::WeissNicht).unwrap();
+                let back = a.back();
+                a.answer(pick(phase)).unwrap_or(back)
+            } else {
+                a.answer(pick(phase)).unwrap()
+            };
+        }
+        let Step::Finished { results, .. } = step else { unreachable!() };
+        let back = a.back();
+        assert!(question_key(&back).is_some());
+        for r in results {
+            assert_eq!((r.floor, r.ceiling), (5, 8));
+            assert!(close(r.total, 6.0));
         }
     }
 

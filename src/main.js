@@ -4,12 +4,14 @@ const $ = (id) => document.getElementById(id);
 const screens = ["start", "question", "results"];
 const keys = { 1: "ja", 2: "teilweise", 3: "nein", 4: "weiss_nicht" };
 let busy = false;
+let answered = 0;
 
 function show(name) {
   for (const s of screens) $(s).hidden = s !== name;
 }
 
 function renderQuestion(step) {
+  answered = step.answered;
   $("q-area").textContent = step.area;
   $("q-meta").textContent =
     `Bereich ${step.area_index + 1}/${step.area_count} · Phase ${step.phase} · Frage ${step.condition_index + 1}/${step.condition_count}`;
@@ -145,8 +147,25 @@ for (const b of document.querySelectorAll("[data-answer]")) {
   b.addEventListener("click", () => call("answer", { answer: b.dataset.answer }));
 }
 
+function goBack() {
+  if (!$("question").hidden && answered === 0) {
+    show("start");
+    $("age").focus();
+    return;
+  }
+  call("go_back", {});
+}
+
+$("back").addEventListener("click", goBack);
+$("r-back").addEventListener("click", goBack);
+
 document.addEventListener("keydown", (e) => {
-  if (!$("question").hidden && keys[e.key]) call("answer", { answer: keys[e.key] });
+  if ($("question").hidden) return;
+  if (keys[e.key]) call("answer", { answer: keys[e.key] });
+  if (e.key === "Backspace") {
+    e.preventDefault();
+    goBack();
+  }
 });
 
 $("restart").addEventListener("click", () => {

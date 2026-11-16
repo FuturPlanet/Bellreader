@@ -122,6 +122,22 @@ button:hover {
   color: #fff;
 }
 
+.back {
+  background: transparent;
+  color: var(--accent);
+  padding: 10px 6px;
+  margin: -10px 0 6px -6px;
+  min-height: 44px;
+}
+
+.secondary {
+  width: 100%;
+  margin-bottom: 10px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+}
+
 .progress {
   display: flex;
   flex-wrap: wrap;

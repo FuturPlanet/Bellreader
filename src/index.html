@@ -12,15 +12,27 @@
       <section id="start" class="screen">
         <h1>Bellreader</h1>
         <p class="lead">Entwicklungsbeobachtung nach Kuno Bellers Entwicklungstabelle</p>
+        <div id="resume" class="card resume" hidden>
+          <div>
+            <strong>Letzte Beobachtung fortsetzen</strong>
+            <p id="resume-info" class="meta"></p>
+          </div>
+          <button id="resume-btn" class="primary" type="button">Fortsetzen</button>
+        </div>
         <form id="age-form" class="card">
           <label for="age">Alter des Kindes in Monaten</label>
           <input id="age" type="number" inputmode="numeric" min="0" max="240" required placeholder="z. B. 19" />
           <button type="submit" class="primary">Beobachtung starten</button>
         </form>
+        <button id="open-btn" class="secondary open" type="button">Gespeicherte Beobachtung öffnen (.bellreader)</button>
+        <input id="open-file" type="file" accept=".bellreader" hidden />
       </section>
 
       <section id="question" class="screen" hidden>
-        <button id="back" class="back" type="button">← Zurück</button>
+        <div class="topbar">
+          <button id="back" class="back" type="button">← Zurück</button>
+          <button id="save" class="back" type="button">Speichern</button>
+        </div>
         <header class="progress">
           <span id="q-area" class="area"></span>
           <span id="q-meta" class="meta"></span>
@@ -72,11 +84,13 @@
         </div>
         <button id="r-pdf" class="primary wide" type="button">Als PDF speichern</button>
         <p id="r-saved" class="saved" hidden></p>
+        <button id="r-save" class="secondary" type="button">Beobachtung speichern (.bellreader)</button>
         <button id="r-back" class="secondary" type="button">← Letzte Antwort ändern</button>
         <button id="restart" class="secondary" type="button">Neue Beobachtung</button>
       </section>
 
       <p id="error" class="error" hidden></p>
+      <p id="toast" class="toast" role="status" hidden></p>
     </main>
   </body>
 </html>

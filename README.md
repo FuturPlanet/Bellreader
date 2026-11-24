@@ -15,9 +15,11 @@ Built with [Tauri 2](https://tauri.app): a Rust backend with a plain HTML, CSS a
 - Profile chart showing floor, ceiling, total score and the median of all total scores
 - Back button: undo answers one at a time, all the way back to the age input, also from the results screen
 - PDF export: one button saves a report to the Downloads folder
+- Autosave after every answer (in the background), with "Fortsetzen" on the start screen
+- Save and open observations as `.bellreader` files at any point, including after the result
 - Works offline: the full table is compiled into the app
 - Light and dark mode, answer buttons stay fixed at the bottom
-- Keyboard on desktop: `1`–`4` to answer, `Backspace` to go back
+- Keyboard on desktop: `1`–`4` to answer, `Backspace` to go back, `Ctrl+S` to save
 
 ## Developmental areas
 
@@ -80,6 +82,35 @@ Rules:
 
 "← Zurück" undoes the last answer. Because the next phase depends on earlier answers, going back replays all remaining answers from the start, so the result is always the same as if the corrected answer had been given the first time. On the first question, going back returns to the age input. On the results screen, "← Letzte Antwort ändern" returns to the last question.
 
+## Saving and loading
+
+### `.bellreader` files
+
+A `.bellreader` file is plain JSON with the child's age and every answer in order:
+
+```json
+{
+  "format": "bellreader",
+  "version": 1,
+  "age_months": 40,
+  "saved_at": "2026-11-24 19:56",
+  "answers": ["ja", "ja", "teilweise", "nein", "weiss_nicht"]
+}
+```
+
+Opening a file replays the answers, the same way going back works. A file saved mid-way opens at the next unanswered question. A file saved on the results screen opens on the results screen, and "← Letzte Antwort ändern" works from there.
+
+- **Save:** "Speichern" at the top of every question, "Beobachtung speichern (.bellreader)" on the results screen, or `Ctrl+S`. Files go to the Downloads folder, named like `Bellreader_2026-11-24_40-Monate.bellreader`, and are never overwritten.
+- **Open:** "Gespeicherte Beobachtung öffnen (.bellreader)" on the start screen.
+
+### Autosave
+
+After every answer, going back, starting or opening a file, the current state is saved to `autosave.bellreader` in the app's data folder (on Windows `%APPDATA%\<identifier>\`). Writing happens on a separate background thread, so the UI never waits for the disk. If several saves queue up, only the newest is written. The file is written to a temporary file first and then renamed, so a crash never leaves a half-written autosave.
+
+On the next start, the start screen offers "Letzte Beobachtung fortsetzen" with the age, the number of answers and the time.
+
+If the developmental table changes between saving and loading, the replay follows the new table, so an old file may lead to slightly different questions.
+
 ## PDF report
 
 "Als PDF speichern" on the results screen saves an A4 landscape report to the Downloads folder:
@@ -105,7 +136,8 @@ Bellreader/
     │   ├── lib.rs                App setup and command registration
     │   ├── table.rs              Loads the JSON
     │   ├── assessment.rs         Age table, search, scoring, going back, tests
-    │   └── pdf.rs                PDF report and export to Downloads
+    │   ├── pdf.rs                PDF report and export to Downloads
+    │   └── session.rs            .bellreader files and background autosave
     ├── icons/                    App icons
     ├── Cargo.toml
     └── tauri.conf.json
@@ -151,6 +183,10 @@ The file is a list of areas, each containing phases, each containing conditions:
 | `answer` | `{ answer: "ja" \| "teilweise" \| "nein" \| "weiss_nicht" }` | Next question, or the results when finished |
 | `go_back` | – | The previous question |
 | `export_pdf` | – | Path of the saved PDF |
+| `save_session` | – | Path of the saved `.bellreader` file |
+| `load_session` | `{ content }` | Question or results from the file |
+| `autosave_info` | – | Age, answer count, time and status of the autosave, or `null` |
+| `resume_autosave` | – | Question or results from the autosave |
 | `get_areas` | – | Names of all areas |
 | `get_phase` | `{ area, phase }` | One phase with its conditions |
 | `get_table` | – | The whole table |
@@ -181,7 +217,7 @@ cd src-tauri
 cargo test
 ```
 
-The tests (16 in total) check that the data loads (8 areas × 18 phases), the age table, scoring, floor and ceiling from different starting ages, the edge cases, the answer table, the median, going back, and that the PDF report is valid.
+The tests (22 in total) check that the data loads (8 areas × 18 phases), the age table, scoring, floor and ceiling from different starting ages, the edge cases, the answer table, the median, going back, the PDF report, saving and loading `.bellreader` files, rejecting broken files, and the background autosave.
 
 ## Building for Windows
 
@@ -221,7 +257,7 @@ cargo tauri android build
 
 A physical phone with USB debugging is usually faster and more reliable than the emulator.
 
-**Known limitation:** Android does not let apps write directly into the Downloads folder, so the PDF export currently works on Windows only. Android needs a "Save as" or "Share" dialog instead.
+**Known limitation:** Android does not let apps write directly into the Downloads folder, so the PDF export and manual `.bellreader` saving currently work on Windows only. Android needs a "Save as" or "Share" dialog instead. Autosave uses the app's own data folder and works on both.
 
 ## App icon
 

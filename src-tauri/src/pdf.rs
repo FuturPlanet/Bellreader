@@ -461,13 +461,13 @@ pub fn civil_date(unix_seconds: i64) -> (i64, u32, u32) {
     (y, m, d)
 }
 
-fn free_path(dir: &Path, base: &str) -> PathBuf {
-    let first = dir.join(format!("{base}.pdf"));
+pub fn free_path(dir: &Path, base: &str, extension: &str) -> PathBuf {
+    let first = dir.join(format!("{base}.{extension}"));
     if !first.exists() {
         return first;
     }
     (2..)
-        .map(|i| dir.join(format!("{base} ({i}).pdf")))
+        .map(|i| dir.join(format!("{base} ({i}).{extension}")))
         .find(|p| !p.exists())
         .unwrap()
 }
@@ -489,7 +489,7 @@ pub fn export_pdf(app: AppHandle, state: State<'_, Mutex<Assessment>>) -> Result
     let bytes = report(age, &format!("{d:02}.{m:02}.{y}"), &results, median);
     let dir = app.path().download_dir().map_err(|e| e.to_string())?;
     std::fs::create_dir_all(&dir).map_err(|e| e.to_string())?;
-    let path = free_path(&dir, &format!("Bellreader_{y}-{m:02}-{d:02}_{age}-Monate"));
+    let path = free_path(&dir, &format!("Bellreader_{y}-{m:02}-{d:02}_{age}-Monate"), "pdf");
     std::fs::write(&path, bytes).map_err(|e| format!("PDF konnte nicht gespeichert werden: {e}"))?;
     Ok(path.display().to_string())
 }

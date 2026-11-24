@@ -3,6 +3,7 @@ use std::collections::BTreeMap;
 use std::sync::Mutex;
 use tauri::State;
 
+use crate::session::Autosaver;
 use crate::table::table;
 
 const PHASE_START_MONTHS: [u32; 18] = [
@@ -90,6 +91,7 @@ pub enum Step {
         answered: usize,
     },
     Finished {
+        age_months: u32,
         results: Vec<AreaResult>,
         median: f64,
     },
@@ -257,6 +259,7 @@ impl Assessment {
                 if area >= table().len() {
                     let totals: Vec<f64> = self.results.iter().map(|r| r.total).collect();
                     return Step::Finished {
+                        age_months: self.age_months,
                         results: self.results.clone(),
                         median: median(&totals),
                     };
@@ -336,37 +339,62 @@ impl Assessment {
         Some((self.results.clone(), median(&totals)))
     }
 
-    pub fn back(&mut self) -> Step {
-        let mut history = std::mem::take(&mut self.history);
-        history.pop();
-        let mut fresh = Assessment::new(self.age_months);
+    pub fn history(&self) -> &[Answer] {
+        &self.history
+    }
+
+    pub fn replay(age_months: u32, answers: &[Answer]) -> (Self, Step) {
+        let mut fresh = Assessment::new(age_months);
         let mut step = fresh.advance();
-        for answer in history {
+        for &answer in answers {
             match fresh.answer(answer) {
                 Ok(next) => step = next,
                 Err(_) => break,
             }
         }
+        (fresh, step)
+    }
+
+    pub fn back(&mut self) -> Step {
+        let mut history = std::mem::take(&mut self.history);
+        history.pop();
+        let (fresh, step) = Self::replay(self.age_months, &history);
         *self = fresh;
         step
     }
 }
 
 #[tauri::command]
-pub fn start_assessment(age_months: u32, state: State<'_, Mutex<Assessment>>) -> Result<Step, String> {
+pub fn start_assessment(
+    age_months: u32,
+    state: State<'_, Mutex<Assessment>>,
+    saver: State<'_, Autosaver>,
+) -> Result<Step, String> {
     let mut assessment = state.lock().map_err(|e| e.to_string())?;
     *assessment = Assessment::new(age_months);
-    Ok(assessment.advance())
+    let step = assessment.advance();
+    saver.save(&assessment);
+    Ok(step)
 }
 
 #[tauri::command]
-pub fn answer(answer: Answer, state: State<'_, Mutex<Assessment>>) -> Result<Step, String> {
-    state.lock().map_err(|e| e.to_string())?.answer(answer)
+pub fn answer(
+    answer: Answer,
+    state: State<'_, Mutex<Assessment>>,
+    saver: State<'_, Autosaver>,
+) -> Result<Step, String> {
+    let mut assessment = state.lock().map_err(|e| e.to_string())?;
+    let step = assessment.answer(answer)?;
+    saver.save(&assessment);
+    Ok(step)
 }
 
 #[tauri::command]
-pub fn go_back(state: State<'_, Mutex<Assessment>>) -> Result<Step, String> {
-    Ok(state.lock().map_err(|e| e.to_string())?.back())
+pub fn go_back(state: State<'_, Mutex<Assessment>>, saver: State<'_, Autosaver>) -> Result<Step, String> {
+    let mut assessment = state.lock().map_err(|e| e.to_string())?;
+    let step = assessment.back();
+    saver.save(&assessment);
+    Ok(step)
 }
 
 #[cfg(test)]
@@ -379,7 +407,7 @@ mod tests {
         loop {
             match step {
                 Step::Question { phase, .. } => step = a.answer(pick(phase)).unwrap(),
-                Step::Finished { results, median } => return (results, median),
+                Step::Finished { results, median, .. } => return (results, median),
             }
         }
     }

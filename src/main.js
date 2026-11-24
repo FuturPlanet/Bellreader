@@ -116,6 +116,7 @@ window.addEventListener("resize", () => {
 function renderResults(step) {
   lastResult = step;
   $("r-saved").hidden = true;
+  $("r-age").textContent = `Alter: ${step.age_months} Monate`;
   show("results");
   drawChart(step.results, step.median);
   fillTable(step.results);
@@ -140,7 +141,6 @@ async function call(cmd, args) {
 $("age-form").addEventListener("submit", (e) => {
   e.preventDefault();
   const age = parseInt($("age").value, 10);
-  $("r-age").textContent = `Alter: ${age} Monate`;
   call("start_assessment", { ageMonths: age });
 });
 
@@ -151,6 +151,7 @@ for (const b of document.querySelectorAll("[data-answer]")) {
 function goBack() {
   if (!$("question").hidden && answered === 0) {
     show("start");
+    refreshResume();
     $("age").focus();
     return;
   }
@@ -172,10 +173,73 @@ $("r-pdf").addEventListener("click", async () => {
   }
 });
 
+let toastTimer;
+
+function toast(message) {
+  $("toast").textContent = message;
+  $("toast").hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => ($("toast").hidden = true), 4500);
+}
+
+function formatStamp(stamp) {
+  const m = /^(\d{4})-(\d{2})-(\d{2}) (\d{2}:\d{2})$/.exec(stamp ?? "");
+  return m ? `${m[3]}.${m[2]}.${m[1]}, ${m[4]} Uhr` : stamp ?? "";
+}
+
+async function refreshResume() {
+  try {
+    const info = await invoke("autosave_info");
+    if (!info || info.answered === 0) {
+      $("resume").hidden = true;
+      return;
+    }
+    const status = info.finished ? "abgeschlossen" : `${info.answered} Antworten`;
+    $("resume-info").textContent = `${info.age_months} Monate · ${status} · ${formatStamp(info.saved_at)}`;
+    $("resume").hidden = false;
+  } catch {
+    $("resume").hidden = true;
+  }
+}
+
+async function saveSession() {
+  $("error").hidden = true;
+  try {
+    const path = await invoke("save_session");
+    toast(`Gespeichert: ${path}`);
+  } catch (e) {
+    $("error").textContent = String(e);
+    $("error").hidden = false;
+  }
+}
+
+$("save").addEventListener("click", saveSession);
+$("r-save").addEventListener("click", saveSession);
+$("resume-btn").addEventListener("click", () => call("resume_autosave", {}));
+$("open-btn").addEventListener("click", () => $("open-file").click());
+
+$("open-file").addEventListener("change", async () => {
+  const file = $("open-file").files[0];
+  $("open-file").value = "";
+  if (!file) return;
+  try {
+    const content = await file.text();
+    await call("load_session", { content });
+  } catch (e) {
+    $("error").textContent = String(e);
+    $("error").hidden = false;
+  }
+});
+
 $("back").addEventListener("click", goBack);
 $("r-back").addEventListener("click", goBack);
 
 document.addEventListener("keydown", (e) => {
+  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "s" && $("start").hidden) {
+    e.preventDefault();
+    saveSession();
+    return;
+  }
   if ($("question").hidden) return;
   if (keys[e.key]) call("answer", { answer: keys[e.key] });
   if (e.key === "Backspace") {
@@ -187,5 +251,8 @@ document.addEventListener("keydown", (e) => {
 $("restart").addEventListener("click", () => {
   $("age").value = "";
   show("start");
+  refreshResume();
   $("age").focus();
 });
+
+refreshResume();
